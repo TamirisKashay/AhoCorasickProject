@@ -77,6 +77,16 @@ Average execution time in milliseconds:
 | 1,000 | 100,000 | 10.297 | 488.912 |
 
 All experiments completed successfully, and both algorithms returned the same total number of matches in every test case.
+### Performance Graphs
+
+#### Text Length: 1,000 Characters
+![Benchmark 1000](results/graphs/graph_1000.png)
+
+#### Text Length: 10,000 Characters
+![Benchmark 10000](results/graphs/graph_10000.png)
+
+#### Text Length: 100,000 Characters
+![Benchmark 100000](results/graphs/graph_100000.png)
 
 ## 7. Complexity Analysis
 
